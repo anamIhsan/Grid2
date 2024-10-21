@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">grid2</string>
+    <string name="pemain1">L.Messi</string>
+    <string name="pemain2">M.Salah</string>
+    <string name="pemain3">C.Ronaldo</string>
+    <string name="pemain4">E.Halland</string>
+    <string name="pemain5">Son</string>
+    <string name="pemain6">C.Palmer</string>
+</resources>
